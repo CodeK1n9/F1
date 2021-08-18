@@ -1,0 +1,102 @@
+[
+    {
+      "name": "meisaidesi",
+      "text": "梅赛德斯",
+      "carCover": "https://new.inews.gtimg.com/tnews/593d56ab/cb10/593d56ab-cb10-4cf9-a755-740e6230bfe7.png",
+      "car": "https://new.inews.gtimg.com/tnews/bfca8501/c985/bfca8501-c985-4358-b39d-ccf020258ada.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/6a79e95b/93a8/6a79e95b-93a8-477e-b270-3dad0d78a610.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/6ff78e6b/9670/6ff78e6b-9670-43f1-a2ec-6f79a3ceb97d.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/293bfdad/7929/293bfdad-7929-4209-9bdc-118aec3e4309.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/a682c5c9/c3e0/a682c5c9-c3e0-47c9-95ed-d0a8406bd247.png"
+    },
+    {
+      "name": "falali",
+      "text": "法拉利",
+      "carCover": "https://new.inews.gtimg.com/tnews/164394d7/cd1b/164394d7-cd1b-4f13-af18-c13e13d86761.png",
+      "car": "https://new.inews.gtimg.com/tnews/4a86a3d3/b8a9/4a86a3d3-b8a9-4031-a80a-2070769fc299.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/54f883e7/159b/54f883e7-159b-4cc6-86f7-edb70c16e259.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/53b75c52/8b71/53b75c52-8b71-4623-a9a2-2a083499aa2d.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/e87a0a65/62ec/e87a0a65-62ec-4dc1-911f-ad72a928fabd.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/247fcd90/caed/247fcd90-caed-49c7-b4a7-d92c032c2891.png"
+    },
+    {
+      "name": "hongniu",
+      "text": "红牛",
+      "carCover": "https://new.inews.gtimg.com/tnews/fed016a7/5125/fed016a7-5125-4b98-b4b6-abdf8598084d.png",
+      "car": "https://new.inews.gtimg.com/tnews/988d4998/4430/988d4998-4430-4df5-a92c-20d1a5b6a2d7.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/2f7e08d8/1324/2f7e08d8-1324-4559-8e73-60fde032dbfc.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/92b06adc/3f17/92b06adc-3f17-4657-883f-46dc465fbe1e.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/454e573f/0942/454e573f-0942-4ca6-9afc-2b56f098d871.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/e0718be1/9dad/e0718be1-9dad-4734-8735-9e45b6799dd8.png"
+    },
+    {
+      "name": "Alpine",
+      "text": "Alpine",
+      "carCover": "https://new.inews.gtimg.com/tnews/dabd45c0/2f00/dabd45c0-2f00-4215-a698-fabeffb8859d.png",
+      "car": "https://new.inews.gtimg.com/tnews/637fdc60/7026/637fdc60-7026-419c-bfc1-c7a9438e488c.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/efa3c405/3366/efa3c405-3366-447c-9935-c5797a239a7d.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/17cfe6fb/e33d/17cfe6fb-e33d-4dee-9b48-7433289db439.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/b1ad7d8f/d698/b1ad7d8f-d698-46bf-a8c3-5bd8503e10c9.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/314f8249/85ce/314f8249-85ce-4723-834a-29987f4dada7.png"
+    },
+    {
+      "name": "maikailun",
+      "text": "迈凯伦",
+      "carCover": "https://new.inews.gtimg.com/tnews/5981d669/d822/5981d669-d822-4a43-aeeb-4eb19c246a40.png",
+      "car": "https://new.inews.gtimg.com/tnews/9cf69476/35cb/9cf69476-35cb-45dc-ad79-73ca3d517655.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/0a94a463/56ec/0a94a463-56ec-4433-b9b7-a8acf57ee7fe.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/85f1f98e/eab9/85f1f98e-eab9-4928-8332-e00cdc363771.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/70d88012/01b3/70d88012-01b3-487f-b998-c77a58e862cf.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/62657e40/324e/62657e40-324e-4cd4-9c13-3ac4f5e1078b.png"
+    },
+    {
+      "name": "aerfa",
+      "text": "阿尔法罗密欧",
+      "carCover": "https://new.inews.gtimg.com/tnews/7e072959/ec56/7e072959-ec56-44c9-97ee-9819d85403a2.png",
+      "car": "https://new.inews.gtimg.com/tnews/8cf5a244/0cd0/8cf5a244-0cd0-4b11-90f1-207600a60899.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/8cf5a244/0cd0/8cf5a244-0cd0-4b11-90f1-207600a60899.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/2b8220ff/28c5/2b8220ff-28c5-48cb-a68e-7da1e9394359.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/45f63f45/72ad/45f63f45-72ad-4618-8c9a-525ac39ecb98.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/5b262df3/b962/5b262df3-b962-4370-be0d-4f03ed735a93.png"
+    },
+    {
+      "name": "xiaohongniu",
+      "text": "小红牛",
+      "carCover": "https://new.inews.gtimg.com/tnews/7ecf5c6c/69ff/7ecf5c6c-69ff-4e4c-ab2b-92ff98438c54.png",
+      "car": "https://new.inews.gtimg.com/tnews/09579e5d/a62a/09579e5d-a62a-4cac-85e6-477d7eb20cb3.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/cf3b80fc/d941/cf3b80fc-d941-4392-9453-5b31809992f9.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/79e7cb18/2900/79e7cb18-2900-4bc2-927c-4fb66aad0e2d.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/bf2560dd/4fa4/bf2560dd-4fa4-49b2-9326-a2f84e5c30c6.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/4b68aba0/676b/4b68aba0-676b-49b9-ad7a-6cbdd424dee4.png"
+    },
+    {
+      "name": "asidun",
+      "text": "阿斯顿马丁",
+      "carCover": "https://new.inews.gtimg.com/tnews/e0edef94/17f4/e0edef94-17f4-4f76-945b-8acb28a693e8.png",
+      "car": "https://new.inews.gtimg.com/tnews/210712d3/f8f8/210712d3-f8f8-47b9-883a-4e4d0b18ec9a.png ",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/210712d3/f8f8/210712d3-f8f8-47b9-883a-4e4d0b18ec9a.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/75b3cab2/0d50/75b3cab2-0d50-458d-99e9-1b53be1e7bc0.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/18a92153/4c35/18a92153-4c35-4ad6-9e41-9e28b8804da9.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/b3ab559a/5633/b3ab559a-5633-4cfc-8304-4a1fdd994be6.png"
+    },
+    {
+      "name": "hasi",
+      "text": "哈斯",
+      "carCover": "https://new.inews.gtimg.com/tnews/ae722a9d/75cf/ae722a9d-75cf-4cbd-8549-24e0fd4c5303.png",
+      "car": "https://new.inews.gtimg.com/tnews/8e099e7d/43ee/8e099e7d-43ee-4347-8390-a36ea39ec873.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/654ce72b/00d8/654ce72b-00d8-4a79-ae40-f26aef2f7e79.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/e5d55d77/d714/e5d55d77-d714-4d1b-9a41-ac84dc6e44b1.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/01f19aef/0c05/01f19aef-0c05-4eff-8b19-8359f98357fb.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/21004813/6588/21004813-6588-422e-918f-5c4b8e8ab338.png"
+    },
+    {
+      "name": "weilianmusi",
+      "text": "威廉姆斯",
+      "carCover": "https://new.inews.gtimg.com/tnews/8cc4d5cd/d139/8cc4d5cd-d139-4009-bb0b-0bf180278b2d.png",
+      "car": "https://new.inews.gtimg.com/tnews/1668162a/004e/1668162a-004e-4ff8-9387-4f3e32a2d2c8.png",
+      "carFuzzy": "https://new.inews.gtimg.com/tnews/c269f3e6/43ce/c269f3e6-43ce-430d-a5a2-dbc815bd3023.png",
+      "carBg": "https://new.inews.gtimg.com/tnews/558e9cbe/1cbb/558e9cbe-1cbb-449a-838d-5f9d1a3ee287.png",
+      "carResultBg": "https://new.inews.gtimg.com/tnews/938daf1b/b48a/938daf1b-b48a-4aec-b4f0-a447cac97c88.png",
+      "posterBg": "https://new.inews.gtimg.com/tnews/4ba70bc5/1568/4ba70bc5-1568-420a-a453-84a64cbd90df.png"
+    }
+  ]
